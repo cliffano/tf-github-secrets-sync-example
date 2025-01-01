@@ -1,1 +1,1 @@
-This is an example repo for the solution of using Terraform to sync secrets to repositories on GitHub Free account as described on https://blog.cliffano.com/2023/08/19/using-terraform-to-sync-secrets-for-github-free-account/ .
+This is an example repo for the solution of using Terraform to sync secrets to repositories on GitHub Free account as described on https://blog.cliffano.com/2023/08/19/the-poor-man-s-way-to-sync-secrets-for-github-free-account-using-terraform/ .
